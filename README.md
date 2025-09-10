@@ -1,11 +1,10 @@
 <img src="https://github.com/falahhilal/falahhilal/raw/main/assets/line-neon.gif" width="100%">
 <h1><b>Hi there, I'm </b><a href="https://github.com/falahhilal">Falah Hilal</a> <img src = "https://github.com/falahhilal/falahhilal/raw/main/assets/about_me.gif" width = 35></h1> 
 
-I am a **Software Engineering** student, currently halfway through my degree, I'm passionate about exploring technology, with a growing interest in **Web Development** and **Machine Learning**, particularly in the area of **research**. Outside the classroom, I love working on hands-on projects — from building responsive web apps to experimenting with basic ML models — as a way to bridge theory and practice. I’m always eager to connect with like-minded individuals, exchange ideas, and contribute to meaningful projects.
+I am a **Software Engineering** student, currently in my Junior year, I'm passionate about exploring technology, with a growing interest in **Web Development** and **Machine Learning**, particularly in the area of **research**. Outside the classroom, I love working on hands-on projects — from building responsive web apps to experimenting with basic ML models — as a way to bridge theory and practice. I’m always eager to connect with like-minded individuals, exchange ideas, and contribute to meaningful projects.
 - 📚 Currently learning 
   - Scikit-learn
   - RESTful APIs
-  - Express.js
 
 <!-- Social Links -->
 <div align="center">
