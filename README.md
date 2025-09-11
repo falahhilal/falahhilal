@@ -6,7 +6,9 @@ I am a **Software Engineering** student, currently in my Junior year, I'm passio
   - Scikit-learn
   - RESTful APIs
 
-## My GitHub Stats
+---
+
+### &nbsp;My GitHub Stats
 
 <div align="center">
 
@@ -23,10 +25,9 @@ I am a **Software Engineering** student, currently in my Junior year, I'm passio
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=falahhilal&theme=radical&hide_border=true&fire=9B59B6&currStreakNum=E0C3FC" />
 </p>
 
+---
 
-
-
-<!-- Social Links -->
+###  &nbsp;Connect With Me :)
 <div align="center">
   <a href="mailto:falahhilal2018@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=2E003E" /></a>
   <a href="https://www.linkedin.com/in/falahhilal/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=2E003E" /></a>
