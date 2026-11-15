@@ -1,52 +1,57 @@
-# Falah Hilal
+<p align="center">
+  <img src="https://github.com/falahhilal/falahhilal/raw/main/assets/line-neon.gif" width="100%" alt="Neon divider">
+</p>
 
-**Software Engineer | Full-Stack AI Intern at Databiqs**  
-Building production AI systems with a foundation in backend engineering, machine learning, data, and full-stack development.
+<h1 align="center">Hey, I'm Falah Hilal <img src="https://github.com/falahhilal/falahhilal/raw/main/assets/about_me.gif" width="32" alt=""></h1>
 
-[LinkedIn](https://www.linkedin.com/in/falahhilal/) · [GitHub](https://github.com/falahhilal) · [Email](mailto:falahhilal2018@gmail.com)
+<p align="center">
+  <strong>Software engineering student · Full-Stack AI Intern at Databiqs</strong><br>
+  I build useful software across backend systems, machine learning, and applied AI.
+</p>
 
-## About
+<p align="center">
+  <a href="https://www.linkedin.com/in/falahhilal/">LinkedIn</a> ·
+  <a href="mailto:falahhilal2018@gmail.com">Email</a> ·
+  <a href="https://github.com/falahhilal">GitHub</a>
+</p>
 
-I’m a final-year Software Engineering student at FAST-NUCES, Karachi, graduating in **June 2027**. I enjoy taking ideas from data and model experimentation through APIs and user-facing applications, with a current focus on applied AI and agentic systems.
+## A little about me
 
-## Experience
+I’m in my final year of BS Software Engineering at FAST-NUCES, Karachi, and expect to graduate in **June 2027**. I enjoy working across the stack: shaping data, building dependable APIs, applying ML and agentic workflows, and turning them into usable applications.
 
-### Databiqs — Full-Stack AI Intern
-*September 2026–Present*
+At **Databiqs**, I’m building and improving production AI systems for international clients. My day-to-day spans Python, FastAPI, LangChain and LangGraph, PostgreSQL, asynchronous processing, and reliability work, with Docker, AWS ECS, Terraform, and CI/CD in the mix. Before that, I led a five-person backend team at **The Bridge of Hopes**, building Django features and APIs for an AI-powered educational platform.
 
-Building and improving production AI systems for international clients. My work spans Python and FastAPI backend engineering, LangChain and LangGraph workflows, retrieval-augmented generation, PostgreSQL, and asynchronous processing. I also contribute to reliability through retries, idempotency, and error handling, and work with Docker, AWS ECS, Terraform, and CI/CD. I participate in production pull requests, code reviews, architecture discussions, and technical collaboration around client requirements.
-
-### The Bridge of Hopes — Backend Team Lead
-*July–September 2026*
-
-Developed Django and Python backend functionality for an AI-powered educational platform for specially abled children. Led a team of five, worked on APIs, student activity data structures, and backend architecture, and collaborated with AI and frontend teammates.
-
-## Selected Projects
+## Things I’ve built
 
 ### [AutoFinanceAgent](https://github.com/falahhilal/AutoFinanceAgent)
-A modular Python application that detects recurring transactions, infers likely subscription usage, and uses an LLM for structured decisions. Includes an action layer for letters and financial what-if projections, plus a feedback loop that adjusts decisions. The dashboard uses simulated transaction profiles.
+A Python app that detects recurring transactions, combines behavioral signals with structured LLM decisions, and explores actions through projections and a feedback loop. Its dashboard uses simulated transaction profiles.
 
 ### [AAPL Trading Agent](https://github.com/falahhilal/aapl-trading-agent)
-An end-to-end ML project with a feature engineering pipeline, next-day direction classifier, heuristic decision layer, FastAPI endpoints, Streamlit UI, and historical backtesting against a buy-and-hold baseline. It is a backtesting project, not live trading.
+An end-to-end ML pipeline: market data and feature engineering, a direction classifier, a heuristic decision layer, FastAPI endpoints, a Streamlit UI, and historical backtesting.
 
 ### [Pakistan Fintech Knowledge Assistant](https://github.com/falahhilal/pakistan-fintech-assistant)
-A document-grounded RAG assistant built with LangChain, ChromaDB, and Llama 3.1. It ingests official Pakistan fintech and policy documents and returns answers with source citations, query rewriting, and short conversational memory.
+A LangChain and ChromaDB RAG assistant that answers questions from official Pakistan fintech and policy documents, with source citations, query rewriting, and conversational memory.
 
 ### [PaySim Mobile Money Analysis](https://github.com/falahhilal/paysim-mobile-money-analysis)
-An exploratory analysis of the synthetic PaySim transaction dataset, using customer segmentation, cohort analysis, and statistical hypothesis testing to study transaction behavior.
+Exploration of synthetic mobile money transactions through customer segmentation, cohort analysis, and statistical hypothesis testing.
 
-## Technical Skills
+## My toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat" alt="LangChain">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+</p>
 
 - **Languages:** Python, SQL, JavaScript, TypeScript
-- **Machine learning:** TensorFlow, PyTorch, Keras, scikit-learn, XGBoost, FinBERT
-- **Generative and applied AI:** LangChain, LangGraph, RAG, LLMs, agentic workflows, MCP
-- **Backend and APIs:** FastAPI, Django, Node.js, Express, REST APIs
-- **Frontend:** React, Next.js
-- **Data and storage:** PostgreSQL, MySQL, MongoDB, ChromaDB, Pandas, NumPy, Jupyter
-- **Engineering and tools:** Docker, AWS ECS, Terraform, Git, GitHub Actions, Postman, Streamlit, Hugging Face, Claude Code, Cursor, Antigravity
+- **AI and data:** TensorFlow, PyTorch, Keras, scikit-learn, XGBoost, FinBERT, Pandas, NumPy, Jupyter
+- **Applied AI:** LangChain, LangGraph, RAG, LLMs, agentic workflows, MCP, Hugging Face
+- **App development:** FastAPI, Django, Node.js, Express, React, Next.js, REST APIs
+- **Data stores and delivery:** PostgreSQL, MySQL, MongoDB, ChromaDB, Docker, AWS ECS, Terraform, GitHub Actions, Streamlit, Postman
 
-## Education
-
-**BS Software Engineering** · FAST-NUCES, Karachi  
-Expected graduation: **June 2027**
-
+<p align="center">
+  <img src="https://github.com/falahhilal/falahhilal/raw/main/assets/line-neon.gif" width="100%" alt="Neon divider">
+</p>
